@@ -1,0 +1,1 @@
+D:\My_Data\Projects\Task_Managment_System_Full-Stack\tms\tms.Client\obj\Debug\tms.client.esproj.CoreCompileInputs.cache
